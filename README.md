@@ -1,8 +1,7 @@
 # FetchNews
 
-1# Set up API key (replace with your News API key, you can get a free one on newsapi.org)
-NEWS_API_KEY = 'NEWS_API_KEY'
+In line 7, set up your News API key (replace with your own from http://newsapi.org). 
 
-2# in line 11 'generative AI' is used to select the desired topic.
+In line 11, 'generative AI' selects the desired topic. 
 
-3# in line 17; 'if "AI" in article["title"]' is used to restrict the search for topics with "AI" in the title.
+In line 17, 'if "AI" in article["title"]' restricts search results to articles with "AI" in the title.
