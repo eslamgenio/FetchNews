@@ -1,6 +1,6 @@
 # FetchNews
 
-1# Set up API key (replace with your News API key)
+1# Set up API key (replace with your News API key, you can get a free one on newsapi.org)
 NEWS_API_KEY = 'NEWS_API_KEY'
 
 2# in line 11 'generative AI' is used to select the desired topic.
